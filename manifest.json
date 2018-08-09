@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
     "name" : "QuoteMe",
-    "version" :"1.0",
-    "description" :"This Extension provides you random Quotes",
+    "version" :"0.0.1",
+    "description" :"Enjoy the day with a Super Hero Quote",
     "icons":{
         "128" :"superMan128.png",
         "48":"superMan48.png",
@@ -17,7 +17,6 @@
         "storage",
         "notifications",
         "contextMenus",
-        "*://localhost:*/*",
         "https://*/"
     ]
 }
